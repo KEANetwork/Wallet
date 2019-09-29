@@ -10,7 +10,7 @@ Masternode technology used to secure the network and provide the above features 
 More information at [KEA Website](https://keacoin.org) <br>
 Block Explorer at [KEA Block Explorer](https://www.coinexplorer.net/KEA)
 
-Please reach out at admin@trbo.cc
+Please reach out at info@keacoin.org
 
 ### Coin Specs
 | **Param**             | **Value**             |
