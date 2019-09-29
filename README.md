@@ -1,36 +1,36 @@
-TRBO Core Wallet Source
+KEA Network Core Wallet Source
 =================================================
 
-TRBO (TRBO) is a global, open source, decentralised cryptocurrency designed to utilise fast & low fee transactions while being environmentally friendly.  TRBO utilises a Proof of Stake (PoS) and Masternode protocol, inspired by PIVX and Dash, for securing its network - meaning that it can be mined on any computer or server with minimal electricity cost.
+KEA Network (KEA) is a global, open source, decentralised cryptocurrency designed to utilise fast & low fee transactions while being environmentally friendly.  KEA utilises a Proof of Stake (PoS) and Masternode protocol, inspired by PIVX and Dash, for securing its network - meaning that it can be mined on any computer or server with minimal electricity cost.
 
-TRBO is designed for use and will be a rewards based cryptocurrency designed to reward users for their time - so speed, cost and sustainability is key to its design.
+KEA is designed for use and will be a rewards based cryptocurrency designed to reward users for their time - so speed, cost and sustainability is key to its design.
 
-Masternode technology used to secure the network and provide the above features - each Masternode is secured with a collateral of 5,000,000 TRBO.
+Masternode technology used to secure the network and provide the above features - each Masternode is secured with a collateral of 500,000 KEA.
 
-More information at [TRBO Website](https://trbo.cc) <br>
-Block Explorer at [TRBO Block Explorer](https://www.coinexplorer.net/TRBO)
+More information at [KEA Website](https://keacoin.org) <br>
+Block Explorer at [KEA Block Explorer](https://www.coinexplorer.net/KEA)
 
 Please reach out at admin@trbo.cc
 
 ### Coin Specs
 | **Param**             | **Value**             |
 |-----------------------|-----------------------|
-| Coin Name             | TRBO               |
-| Ticker                | TRBO                  |
+| Coin Name             | KEA               |
+| Ticker                | KEA                  |
 | Hash Algo             | Quark                 |
 | Type                  | POS & Masternodes     |
 | Block Time            | 120 seconds           |
-| Block Reward          | 100 - 5500 TRBO       |
+| Block Reward          | 100 - 5500 KEA       |
 | Masternode Reward     | 70%                   |
 | Proof of Stake Reward | 30%                   |
-| Masternode Collateral | 5,000,000 TRBO        |
+| Masternode Collateral | 500,000 KEA        |
 | Maturity              | 20 blocks             |
 | Stake Age             | 2 hours               |
-| Premine (Swap Funds)  | 1,845,200,000 TRBO        |
-| **Max Supply**        |**10,000,000,000 TRBO**|
+| Premine (Swap Funds)  | 3,333,333,333 KEA        |
+| **Max Supply**        |**99,999,999,999 KEA**|
 
 ### Block Information
-| **Blocks**            | **Reward (TRBO) **           |
+| **Blocks**            | **Reward (KEA) **           |
 |-----------------------|-----------------------|
 | 201 > 20000           | 100                   |
 | 20001 > 100000        | 4000                  |
